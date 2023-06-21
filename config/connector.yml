@@ -1,0 +1,17 @@
+snowflake:
+  username: sf_username
+  password: sf_password
+  account: sf_Organization-Account
+  database: db_name
+  table: table_name
+  columns: ""
+  warehouse: ""
+  scheme: ""
+  limit: 50
+
+elasticsearch:
+  host: https://localhost:9200
+  username: elastic
+  password: elastic@123
+  ca_cert: /path/to/elasticsearch/config/certs/http_ca.crt 
+  index: index_name
