@@ -1,3 +1,3 @@
 # snowflake-elasticsearch-connector
-![demo](connector.gif)
+![demo](screenshot/connector.gif)
 Transfer data from Snowflake to Elasticsearch.
